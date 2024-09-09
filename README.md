@@ -13,10 +13,8 @@ Environments
 etc
 
 ## Usage :
-	How to use the program
-could be the cloning process,
-which file to execute
-etc
+<p>To use this program you must execute the customer_banking.py file.  This file calls the main function which prompts the user to enter the savings and cd account balance, interest rate, and the length of months to determine the interest gained. It then displays the interest earned on the savings and CD accounts and updates the balances.</p>
+
 ## Project Structure / Files  :
 	All the files that are involved and a brief description of them.
 ## Functionality / Example usage :
