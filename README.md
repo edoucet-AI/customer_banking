@@ -26,9 +26,9 @@ etc
 </p>
 
 ## Functionality / Example usage :
-How the program functions.
-The expected output/results
-etc
+<p>The program will prompt the user to enter their savings and CD account balances, the interest rate they are earning on the account, and the length of months they have been earning interest.  The program will then
+calculate the interest earned on both accounts and add the earned interest to the initial balance.  The users' updated balance for their savings and CD accounts is then presented to them using the print function.</p>
+
 ## Code Explanation :
 ## Troubleshooting :
 ## Conclusion :
