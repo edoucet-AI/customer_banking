@@ -35,7 +35,6 @@ def main():
     print("The cd account balance is: $", format(cd_balance, ',.2f'))
     print("The interest earned is: $", format(cd_interest, ',.2f'))
     print("Your updated cd account balance is: $", format(updated_cd_balance, ',.2f'))
-    #print("Length of CD is:" int{cd_maturity})
-
+    
 if __name__ == "__main__":
     main()
