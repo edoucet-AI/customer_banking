@@ -16,7 +16,15 @@ etc
 <p>To use this program you must execute the customer_banking.py file.  This file calls the main function which prompts the user to enter the savings and cd account balance, interest rate, and the length of months to determine the interest gained. It then displays the interest earned on the savings and CD accounts and updates the balances.</p>
 
 ## Project Structure / Files  :
-	All the files that are involved and a brief description of them.
+<p>
+<ul>
+<li>customer_banking.py - Contains the main function that executes the program.</li>
+<li>savings_account.py - Contains the create_savings_account function which creates the saving account, calculates the interest earned, and updates the account balance.</li>
+<li>cd_account.py - Contains the create_cd_acount function which creates the cd account, calculates the interest earned, and updates the cd account balance.</li>
+<li>account.py - Contains the account class and the set_balance and set_interest functions.</li>
+</ul>
+</p>
+
 ## Functionality / Example usage :
 How the program functions.
 The expected output/results
